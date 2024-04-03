@@ -1,4 +1,4 @@
-# RemoveBG
+# ExcelGraphics
 
 [![Python](https://shields.io/badge/Python-3.12.1-blue.svg)](https://www.python.org/downloads/release/python-3121/)
 
